@@ -1,0 +1,13 @@
+#Wed Jul 13 09:39:19 EDT 2022
+\!/=
+/instance/org.eclipse.cdt.ui/content_assist_proposals_timeout=5000
+/instance/org.eclipse.cdt.ui/editor_folding_preprocessor_enabled=true
+/instance/org.eclipse.cdt.ui/editor_folding_statements=true
+/instance/org.eclipse.cdt.ui/formattingConfirmScopeForEmptySelection=false
+/instance/org.eclipse.cdt.ui/scalability.detect=false
+/instance/org.eclipse.cdt.ui/sourceHoverBackgroundColor=255,255,255
+/instance/org.eclipse.cdt.ui/spelling_locale_initialized=true
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.commands=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<org.eclipse.ui.commands>\r\n<keyBinding commandId\="org.eclipse.ui.navigate.nextTab" contextId\="org.eclipse.cdt.ui.cEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+TAB"/>\r\n<keyBinding commandId\="org.eclipse.cdt.ui.edit.text.c.toggle.source.header" contextId\="org.eclipse.cdt.ui.cEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="ALT+O"/>\r\n<keyBinding commandId\="org.eclipse.ui.navigate.previousTab" contextId\="org.eclipse.cdt.ui.cEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SHIFT+TAB"/>\r\n<keyBinding contextId\="org.eclipse.cdt.ui.cEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+TAB"/>\r\n</org.eclipse.ui.commands>
+@org.eclipse.cdt.ui=5.11.0.201509131935
+@org.eclipse.ui.workbench=3.108.1.v20160819-2118
+file_export_version=3.0
